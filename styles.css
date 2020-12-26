@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #fec3a6;
+}
+.container{
+    width: 50%;
+    margin: 100px auto;
+    background: #ffffff;
+    padding: 20px;
+}
+form{
+    margin: 30px 0;
+}
+form input{
+    margin: 8px 0;
+}
+span i{
+    cursor: pointer;
+}
+.alert-info{
+    background: #fec3a6 !important;
+}
